@@ -18,13 +18,9 @@ A simple, customizable chat interface built with **Streamlit** to interact with 
 - Any backend LLM service (custom or local API)
 
 Install dependencies:
-```bash
 pip install -r requirements.txt
 
 📁 Folder Structure
-bash
-Copy
-Edit
 .
 ├── main.py               # Streamlit app entry point
 ├── requirements.txt      # Python dependencies
