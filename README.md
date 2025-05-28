@@ -1,4 +1,4 @@
-# 🧠 Local LLM Chat Interface
+#  Chat Interface using LLM
 
 A simple, customizable chat interface built with **Streamlit** to interact with local LLM (Large Language Model) backends. Styled for readability with a dark mode theme and persistent chat history.
 
