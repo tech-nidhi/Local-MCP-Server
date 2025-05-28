@@ -28,13 +28,6 @@ pip install -r requirements.txt
 └── assets/
     └── screenshot.png    # UI preview (optional)
 
-Clone the repository:
-git clone https://github.com/yourusername/local-llm-chat.git
-cd local-llm-chat
-
-Install dependencies:
-pip install -r requirements.txt
-
 Run the Streamlit app:
 streamlit run main.py
 
